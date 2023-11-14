@@ -46,3 +46,8 @@ Each file contains about 33 tasks to be done by the learners. The files also con
 
 The introduction assumes that the learner have some background about python fundamentals. For those who do not know anything about python, they can visit [python-principles website](https://pythonprinciples.com/)
 to learn some python principles in order to be ready for this introduction about NumPy.
+
+To open Part 1 in google colab click on this icone : [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AhmadAlsaadi/ENCH320-Numpy/blob/main/Numpy_Part_1_.ipynb)    
+
+To open Part 2 in google colab click on this icone : [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AhmadAlsaadi/ENCH320-Numpy/blob/main/Numpy_Part_2_.ipynb) 
+
