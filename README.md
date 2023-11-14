@@ -1,5 +1,6 @@
 # Introduction to Numpy
-This repo contains hands-on introduction to numpy in form two jupyter notebooks. The repo consist mainly of two files.   
+This repo contains hands-on introduction to numpy in form of two jupyter notebooks. The repo consist mainly of two files.   
+
 **Numpy Part 1**:
 * What is NumPy
 * Who created NumPy
@@ -17,7 +18,9 @@ This repo contains hands-on introduction to numpy in form two jupyter notebooks.
 * Array Indexing and Slicing
    * Array Indexing
    * Array Slicing
+ 
 **Numpy Part 2**:
+
 * Array Manipulation
   * Reshaping Arrays
   * Resizing Arrays
@@ -36,7 +39,10 @@ This repo contains hands-on introduction to numpy in form two jupyter notebooks.
   * Saving NumPy Arrays to Files:
   * Loading Data from Files
 * Conclusion
-Each file contains about 33 task to done by the learners. The files also contains some challenges that is some how a little bet harder than the tasks.
-prequistes:
-The introduction assumes that the learner have some background about python fundamentals. For those who do not know anything about python, they can visit (python-principles website)[https://pythonprinciples.com/]
-to learn some python principles in order to be ready for the introduction about NumPy.
+
+Each file contains about 33 tasks to be done by the learners. The files also contains some challenges that is some how a bet harder than the tasks.   
+
+**prequistes**:   
+
+The introduction assumes that the learner have some background about python fundamentals. For those who do not know anything about python, they can visit [python-principles website](https://pythonprinciples.com/)
+to learn some python principles in order to be ready for this introduction about NumPy.
