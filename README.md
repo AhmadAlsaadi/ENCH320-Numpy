@@ -42,7 +42,7 @@ This repo contains hands-on introduction to numpy in form of two jupyter noteboo
 
 Each file contains about 33 tasks to be done by the learners. The files also contains some challenges that is some how a bet harder than the tasks.   
 
-**prequistes**:   
+**Pre-requistes**:   
 
 The introduction assumes that the learner have some background about python fundamentals. For those who do not know anything about python, they can visit [python-principles website](https://pythonprinciples.com/)
 to learn some python principles in order to be ready for this introduction about NumPy.
