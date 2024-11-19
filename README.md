@@ -1,7 +1,7 @@
 # Introduction to Numpy
-This repo contains hands-on introduction to numpy in form of two jupyter notebooks. The repo consist mainly of two files.   
+This repo contains hands-on introduction to numerical methods in form of jupyter notebook files. The repo consist mainly of 5 files.   
 
-**Numpy Part 1**:
+**Introduction to Numpy Library** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Numpy_Part_1_.ipynb) :
 * What is NumPy
 * Who created NumPy
 * Why do we learn NumPy
@@ -18,9 +18,6 @@ This repo contains hands-on introduction to numpy in form of two jupyter noteboo
 * Array Indexing and Slicing
    * Array Indexing
    * Array Slicing
- 
-**Numpy Part 2**:
-
 * Array Manipulation
   * Reshaping Arrays
   * Resizing Arrays
@@ -40,6 +37,54 @@ This repo contains hands-on introduction to numpy in form of two jupyter noteboo
   * Loading Data from Files
 * Conclusion
 
+**Introduction to matplotlib library**:   
+* What is matplotlib   
+* Matplotlib creator   
+* Installing matplotlib    
+* Importing matplotlib   
+* Creating line plot   
+* Customizing a plot   
+  * Adding title   
+  * Adding x-axis and y-axis labels   
+  * Styling line plot   
+  * Plot gridlines   
+  * Plot legend   
+  * x-axis and y-axis limits   
+* 2D plot types in matplotlib   
+  * Scatter plot   
+  * Bar plot   
+  * Histogram   
+  * Pie chart   
+* Plot annotation   
+* Subplots  
+* Saving plots   
+* Conclusion   
+
+**Introduction to SymPy**   
+* Installing SymPy   
+* Importing SymPy   
+* Defining symbolic variables   
+* Writing mathematical expression   
+* Evaluating an expression   
+* Writing equations   
+* Solving Equations   
+* Solving Systems of Equations   
+* Differentiation in Sympy   
+* Integration in SymPy   
+* Plotting In SymPy   
+* Limits in SymPy   
+* Piecewise Functions   
+* Laplace Transform   
+  * Definition   
+  * Applications   
+  * Properties   
+* Solving Differential Equations   
+  * Key concepts      
+
+
+**Root Finding**
+
+**Numerical Integration and Differentiation**
 Each file contains about 33 tasks to be done by the learners. The files also contains some challenges that is some how a bet harder than the tasks.   
 
 **Pre-requistes**:   
