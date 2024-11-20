@@ -42,7 +42,7 @@ This repo contains hands-on introduction to numerical methods in form of jupyter
 
 </details>
 
-### **Introduction to matplotlib library**:    
+### **Introduction to matplotlib library** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Introduction_to_Matplotlib.ipynb):    
 
 <details>
 <summary>File contents</summary>
@@ -71,7 +71,7 @@ This repo contains hands-on introduction to numerical methods in form of jupyter
 
 </details>
 
-### **Introduction to SymPy**   
+### **Introduction to SymPy** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Introduction_to_sympy.ipynb):  
 
 <details>
 <summary>File contents</summary>
@@ -98,7 +98,7 @@ This repo contains hands-on introduction to numerical methods in form of jupyter
 
 </details>
 
-### **Root Finding**   
+### **Root Finding**  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Root_Finding.ipynb): 
 
 <details>
 <summary>File contents</summary>
@@ -122,7 +122,7 @@ This repo contains hands-on introduction to numerical methods in form of jupyter
 
 </details>
 
-### **Numerical Integration and Differentiation** 
+### **Numerical Integration and Differentiation**  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Numerical_Inegration.ipynb):
 
 <details>
 <summary>File contents</summary>
