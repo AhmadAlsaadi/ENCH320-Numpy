@@ -1,7 +1,10 @@
 # Introduction to Numerical Methods
 This repo contains hands-on introduction to numerical methods in form of jupyter notebook files. The repo consist mainly of 5 files.   
 
-**Introduction to Numpy Library** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Numpy_Part_1_expected_result.ipynb) :
+### **Introduction to Numpy Library** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Numpy_Part_1_expected_result.ipynb) :
+<details>
+<summary>File contents</summary>
+
 * What is NumPy
 * Who created NumPy
 * Why do we learn NumPy
@@ -37,7 +40,13 @@ This repo contains hands-on introduction to numerical methods in form of jupyter
   * Loading Data from Files
 * Conclusion
 
-**Introduction to matplotlib library**:   
+</details>
+
+### **Introduction to matplotlib library**:    
+
+<details>
+<summary>File contents</summary>
+
 * What is matplotlib   
 * Matplotlib creator   
 * Installing matplotlib    
@@ -60,7 +69,13 @@ This repo contains hands-on introduction to numerical methods in form of jupyter
 * Saving plots   
 * Conclusion   
 
-**Introduction to SymPy**   
+</details>
+
+### **Introduction to SymPy**   
+
+<details>
+<summary>File contents</summary>
+
 * Installing SymPy   
 * Importing SymPy   
 * Defining symbolic variables   
@@ -81,8 +96,13 @@ This repo contains hands-on introduction to numerical methods in form of jupyter
 * Solving Differential Equations   
   * Key concepts      
 
+</details>
 
-**Root Finding**   
+### **Root Finding**   
+
+<details>
+<summary>File contents</summary>
+
 * Python Review   
   * Representing Mathematical Function   
   * Evaluating Mathematical Functions at Multiple Points   
@@ -100,14 +120,19 @@ This repo contains hands-on introduction to numerical methods in form of jupyter
     * Secant Method   
     * Fixed Point Iteration     
 
-**Numerical Integration and Differentiation** 
+</details>
 
+### **Numerical Integration and Differentiation** 
 
+<details>
+<summary>File contents</summary>
+
+</details>
 
 
 Each file contains about 33 tasks to be done by the learners. The files also contains some challenges that is some how a bet harder than the tasks.   
 
-**Pre-requistes**:   
+### **Pre-requistes**:   
 
 The introduction assumes that the learner have some background about python fundamentals. For those who do not know anything about python, they can visit [python-principles website](https://pythonprinciples.com/)
 to learn some python principles in order to be ready for this introduction about NumPy.
