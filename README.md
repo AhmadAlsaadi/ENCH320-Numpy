@@ -122,7 +122,7 @@ This repo contains hands-on introduction to numerical methods in form of jupyter
 
 </details>
 
-### **Numerical Integration and Differentiation**  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Numerical_Inegration.ipynb):
+### **Numerical Integration and Differentiation**  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Numerical_Integration.ipynb):
 
 <details>
 <summary>File contents</summary>
