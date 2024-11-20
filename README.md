@@ -1,8 +1,7 @@
 # Introduction to Numerical Methods
 This repo contains hands-on introduction to numerical methods in form of jupyter notebook files. The repo consist mainly of 5 files.   
 
-<h3 tabindex="-1" class="heading-element" dir="auto"><strong>Introduction to Numpy Library</strong> <a href="https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Numpy_Part_1_expected_result.ipynb" rel="nofollow" style="
-    margin: 5px;
+<h3 tabindex="-1" class="heading-element" dir="auto" style="display:flex;"><strong>Introduction to Numpy Library</strong> <a href="https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Numpy_Part_1_expected_result.ipynb" rel="nofollow" style="margin: 5px;
 "><img src="https://camo.githubusercontent.com/96889048f8a9014fdeba2a891f97150c6aac6e723f5190236b10215a97ed41f3/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open in Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width: 100%;"></a> :</h3>
 <details>
 <summary>File contents</summary>
