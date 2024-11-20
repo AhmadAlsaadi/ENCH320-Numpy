@@ -1,4 +1,4 @@
-# Introduction to Numerical Methods
+# Hands-on Numerical Methods with Python
 This repo contains hands-on introduction to numerical methods in form of jupyter notebook files. The repo consist mainly of 5 files.   
 
 ### **Introduction to Numpy Library** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Numpy_Part_1_expected_result.ipynb) :
