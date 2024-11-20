@@ -1,4 +1,4 @@
-# Introduction to Numpy
+# Introduction to Numerical Methods
 This repo contains hands-on introduction to numerical methods in form of jupyter notebook files. The repo consist mainly of 5 files.   
 
 **Introduction to Numpy Library** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Numpy_Part_1_expected_result.ipynb) :
@@ -82,9 +82,29 @@ This repo contains hands-on introduction to numerical methods in form of jupyter
   * Key concepts      
 
 
-**Root Finding**
+**Root Finding**   
+* Python Review   
+  * Representing Mathematical Function   
+  * Evaluating Mathematical Functions at Multiple Points   
+  * Plotting Mathematical Functions   
+* Tolerance in Numerical Computing   
+  * Why Tolerance Matters?   
+* What is Root Finding?   
+* Types of Root finding Methods   
+  * Closed Methods   
+    * Understanding the Intermediate Value Theorem (IVT)   
+    * Bisection Method   
+    * False Position Method (Regula Falsi)
+  * Open Methods   
+    * Newton-Raphson Method   
+    * Secant Method   
+    * Fixed Point Iteration     
 
-**Numerical Integration and Differentiation**
+**Numerical Integration and Differentiation** 
+
+
+
+
 Each file contains about 33 tasks to be done by the learners. The files also contains some challenges that is some how a bet harder than the tasks.   
 
 **Pre-requistes**:   
