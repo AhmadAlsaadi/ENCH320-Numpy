@@ -152,12 +152,11 @@ You can run the notebooks directly on Google Colab without any local setup by cl
 
 You can also run the notebooks on Google Colab from google colab website. Here's how:
 
-1. Open Google Colab.
-2. Load the notebook:
-    - Click on "File" > "Open notebook".
-    - Go to the "GitHub" tab, and enter the repository URL: https://github.com/AhmadAlsaadi/Hands-On-Numerical-Methods-with-Python.
-    - Select the desired notebook from the list.
-    - Run the notebook:
+1. Open and sign in to ![Google Colab](https://colab.research.google.com/).
+2. Click on "File" > "Open notebook".
+3. Go to the "GitHub" tab, and enter the repository URL: https://github.com/AhmadAlsaadi/Hands-On-Numerical-Methods-with-Python into the search bar and press `Enter`.
+4. Select the desired notebook from the list to Run it.   
+
 You can now execute the cells in the notebook directly in the cloud.
 
 ## Contributing
