@@ -1,7 +1,25 @@
 # Hands-on Numerical Methods with Python
-This repo contains hands-on introduction to numerical methods in form of jupyter notebook files. The repo consist mainly of 5 files.   
+Welcome to the **Hands-On Numerical Methods with Python** repository! This repository contains practical Jupyter notebook files that provide an introduction to various numerical methods using Python. It is designed for learners who want to enhance their understanding of numerical techniques with python programming.      
 
-### **Introduction to Numpy Library** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Numpy_Part_1_expected_result.ipynb) :
+## Table of Contents   
+- Introduction   
+- Prerequisites   
+- Repository Structure   
+- Usage   
+- Contributing   
+- License   
+
+## Introduction
+Numerical methods are essential for solving mathematical problems that cannot be addressed analytically. This repository focuses on hands-on learning, providing practical examples and exercises to help you grasp the concepts of numerical differentiation, integration, root finding, and more. Each notebook contains various tasks and challenges to reinforce learning.
+
+## Prerequiste
+To get the most out of this repository, you should have a basic understanding of Python. If you're new to Python, we recommend checking out resources like ![Python Principles](https://pythonprinciples.com/) before diving into these notebooks.
+
+## Repository Structure
+This repository consists of several Jupyter notebook files organized into categories:
+
+#### **Introduction to Numpy Library** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Numpy_Part_1_expected_result.ipynb) :   
+Learn about the NumPy library, which is fundamental for numerical computing in Python.
 <details>
 <summary>File contents</summary>
 
@@ -42,8 +60,8 @@ This repo contains hands-on introduction to numerical methods in form of jupyter
 
 </details>
 
-### **Introduction to matplotlib library** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Introduction_to_Matplotlib.ipynb):    
-
+#### **Introduction to matplotlib library** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Introduction_to_Matplotlib.ipynb):   
+Discover how to create visualizations using Matplotlib.    
 <details>
 <summary>File contents</summary>
 
@@ -71,8 +89,8 @@ This repo contains hands-on introduction to numerical methods in form of jupyter
 
 </details>
 
-### **Introduction to SymPy** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Introduction_to_sympy.ipynb):  
-
+#### **Introduction to SymPy** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Introduction_to_sympy.ipynb):  
+Explore symbolic mathematics with the SymPy library.
 <details>
 <summary>File contents</summary>
 
@@ -98,8 +116,8 @@ This repo contains hands-on introduction to numerical methods in form of jupyter
 
 </details>
 
-### **Root Finding**  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Root_Finding.ipynb): 
-
+#### **Root Finding**  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Root_Finding.ipynb):   
+Understand various numerical root-finding methods.
 <details>
 <summary>File contents</summary>
 
@@ -122,18 +140,28 @@ This repo contains hands-on introduction to numerical methods in form of jupyter
 
 </details>
 
-### **Numerical Integration and Differentiation**  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Numerical_Integration.ipynb):
-
+#### **Numerical Integration and Differentiation**  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmadAlsaadi/ENCH320-Numpy/blob/main/Numerical_Integration.ipynb):   
+Study techniques for numerical integration and differentiation.
 <details>
 <summary>File contents</summary>
 
 </details>
 
+## Usage
+You can run the notebooks directly on Google Colab without any local setup by clicking the icon "open in colab" that is shown in front of each file name in the repository struction section above.   
 
-Each file contains about 33 tasks to be done by the learners. The files also contains some challenges that is some how a bet harder than the tasks.   
+You can also run the notebooks on Google Colab from google colab website. Here's how:
 
-### **Pre-requistes**:   
+1. Open Google Colab.
+2. Load the notebook:
+    - Click on "File" > "Open notebook".
+    - Go to the "GitHub" tab, and enter the repository URL: https://github.com/AhmadAlsaadi/Hands-On-Numerical-Methods-with-Python.
+    - Select the desired notebook from the list.
+    - Run the notebook:
+You can now execute the cells in the notebook directly in the cloud.
 
-The introduction assumes that the learner have some background about python fundamentals. For those who do not know anything about python, they can visit [python-principles website](https://pythonprinciples.com/)
-to learn some python principles in order to be ready for this introduction about NumPy.
+## Contributing
+Contributions are welcome! If you have suggestions for improvements or additional content, feel free to fork the repository and submit a pull request.
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
