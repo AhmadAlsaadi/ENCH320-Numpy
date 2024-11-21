@@ -13,7 +13,7 @@ Welcome to the **Hands-On Numerical Methods with Python** repository! This repos
 Numerical methods are essential for solving mathematical problems that cannot be addressed analytically. This repository focuses on hands-on learning, providing practical examples and exercises to help you grasp the concepts of numerical differentiation, integration, root finding, and more. Each notebook contains various tasks and challenges to reinforce learning.
 
 ## Prerequiste
-To get the most out of this repository, you should have a basic understanding of Python. If you're new to Python, we recommend checking out resources like ![Python Principles](https://pythonprinciples.com/) before diving into these notebooks.
+To get the most out of this repository, you should have a basic understanding of Python. If you're new to Python, we recommend checking out resources like [Python Principles](https://pythonprinciples.com/) before diving into these notebooks.
 
 ## Repository Structure
 This repository consists of several Jupyter notebook files organized into categories:
@@ -152,10 +152,10 @@ You can run the notebooks directly on Google Colab without any local setup by cl
 
 You can also run the notebooks on Google Colab from google colab website. Here's how:
 
-1. Open and sign in to ![Google Colab](https://colab.research.google.com/).
+1. Open and sign in to [Google Colab](https://colab.research.google.com/).
 2. Click on "File" > "Open notebook".
 3. Go to the "GitHub" tab, and enter the repository URL: https://github.com/AhmadAlsaadi/Hands-On-Numerical-Methods-with-Python into the search bar and press `Enter`.
-4. Select the desired notebook from the list to Run it.   
+4. Select the desired notebook from the list to run it.   
 
 You can now execute the cells in the notebook directly in the cloud.
 
