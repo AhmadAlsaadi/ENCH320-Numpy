@@ -10,7 +10,9 @@ Welcome to the **Hands-On Numerical Methods with Python** repository! This repos
 - License   
 
 ## Introduction
-Numerical methods are essential for solving mathematical problems that cannot be addressed analytically. This repository focuses on hands-on learning, providing practical examples and exercises to help you grasp the concepts of numerical differentiation, integration, root finding, and more. Each notebook contains various tasks and challenges to reinforce learning.
+Numerical methods are essential for solving mathematical problems that cannot be addressed analytically. They play a crucial role in various fields such as engineering, physics, computer science, and finance. This repository focuses on hands-on learning, providing practical examples and exercises to help you grasp concepts such as numerical differentiation, integration, and root finding. 
+
+It is designed for learners who want to enhance their understanding of numerical techniques through Python programming, whether you are a student, educator, or professional looking to refresh your skills.
 
 ## Prerequiste
 To get the most out of this repository, you should have a basic understanding of Python. If you're new to Python, we recommend checking out resources like [Python Principles](https://pythonprinciples.com/) before diving into these notebooks.
@@ -157,7 +159,7 @@ You can also run the notebooks on Google Colab from google colab website. Here's
 3. Go to the "GitHub" tab, and enter the repository URL: https://github.com/AhmadAlsaadi/Hands-On-Numerical-Methods-with-Python into the search bar and press `Enter`.
 4. Select the desired notebook from the list to run it.   
 
-You can now execute the cells in the notebook directly in the cloud.
+You can now execute the cells in the notebook directly in the cloud, and make use of Google’s computational resources.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or additional content, feel free to fork the repository and submit a pull request.
